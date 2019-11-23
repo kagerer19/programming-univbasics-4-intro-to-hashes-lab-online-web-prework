@@ -22,7 +22,7 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, value)
-
+name { name: => "Steve"}
   
 end
 
