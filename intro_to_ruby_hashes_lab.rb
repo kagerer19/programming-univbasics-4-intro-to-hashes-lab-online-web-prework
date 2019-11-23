@@ -21,7 +21,7 @@ def my_hash_creator(key, value)
   
 end
 
-def read_from_hash
+def reading_data_from_a_hash
   
   
 end
