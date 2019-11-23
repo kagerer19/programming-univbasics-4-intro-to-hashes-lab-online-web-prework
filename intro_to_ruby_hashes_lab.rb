@@ -23,6 +23,7 @@ end
 
 def read_from_hash
   
+  
 end
 
 def update_counting_hash(hash, key)
